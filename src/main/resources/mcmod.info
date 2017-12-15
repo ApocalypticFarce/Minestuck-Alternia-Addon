@@ -1,0 +1,16 @@
+[
+{
+  "modid": "minestuck_alternia",
+  "name": "Minestuck Alternia Addon",
+  "description": "An addon for Minestuck that adds Trolls and stuff!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["The_Julemon", "ApocalypticFarce", "Caldw3ll"],
+  "credits": "The Minestuck dev team for making such an amazing mod",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": ["minestuck"]
+}
+]
